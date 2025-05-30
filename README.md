@@ -40,8 +40,8 @@ High-level metrics ready for dashboards:
 
 ## 📊 Dataset
 
-This project uses the **Formula 1 World Championship (1950–2020)** dataset from Kaggle:
-[https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+This project uses the **Formula 1 World Championship (1950–2020)** dataset from Kaggle:  
+🔗 [Formula 1 Dataset on Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
 
 > ⚠️ To follow all queries in this repo:
 1. Download the Kaggle dataset above.
@@ -71,5 +71,5 @@ This project uses the **Formula 1 World Championship (1950–2020)** dataset fro
 
 Made with 🏁 by a passionate F1 fan and aspiring data analyst.
 
-Feel free to connect or fork the project — feedback welcome!
-
+- 🔗 [My LinkedIn Profile](http://www.linkedin.com/in/matias-rossi-95-data-strength)  
+- 🌐 [My Portfolio Website](https://matirossi87mr.wixsite.com/matiasrossi-porfolio)
